@@ -1,3 +1,7 @@
 ajsdkjahdjhajkd
 
+<<<<<<< HEAD
 Que profundo comentario pareja!
+=======
+Soy una linea escrita por Mica
+>>>>>>> 9a517deae2a010f16f8a0f3c6d56f0b5b3fc0a9e
